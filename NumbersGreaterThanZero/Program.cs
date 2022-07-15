@@ -135,7 +135,7 @@ Console.WriteLine("Конечный массив: ");
 int[] resultArray = ArrayReverse(primaryArr);
 PrintArray(resultArray);
 Console.WriteLine();
-Console.WriteLine("Начальный массив через Reverse(): ");
+Console.WriteLine("Массив через Reverse(): ");
 PrintArray(primaryArr.Reverse().ToArray());
 
         
